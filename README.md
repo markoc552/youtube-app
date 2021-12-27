@@ -1,4 +1,4 @@
-## Youtube App
+## Youtube Application
 
 #### Mockup application of Youtube
 
